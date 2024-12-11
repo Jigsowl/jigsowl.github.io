@@ -31,7 +31,7 @@ plugins:
 # Author information
 author:
   name: "Javier Gallardo S"
-  avatar: "/assets/images/profile.jpg" # Coloca aquí la ruta de tu foto
+  avatar: "/assets/images/bio-photo.jpg" # Coloca aquí la ruta de tu foto
   bio: "Ingeniero Comercial, Científico de Datos en formación, y creador de contenido. Explorando el mundo de la ciencia y el streaming."
   links:
     - label: "GitHub"
