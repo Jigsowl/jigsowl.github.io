@@ -1,9 +1,28 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
+  - title: "Inicio"
+    url: /
+    external: false
+  - title: "Sobre mí"
     url: /about/
+    external: false
+  - title: "Portafolio"
+    url: /portfolio/
+    external: false
+  - title: "Proyectos"
+    url: /projects/
+    external: false
+  - title: "Currículum"
+    url: /resume/
+    external: false
+  - title: "Blog"
+    url: /posts/
+    external: false
+  - title: "Contacto"
+    url: /contact/
+    external: false
+  - title: "Categorías"
+    url: /categories/
+    external: false
+  - title: "Etiquetas"
+    url: /tags/
+    external: false
